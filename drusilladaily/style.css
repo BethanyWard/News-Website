@@ -1,0 +1,233 @@
+
+h1 {
+    text-align: center;
+    border-style: double; border-radius: 15px; width: 380px; 
+    display: block; margin-left: auto; margin-right: auto; margin-top: 4px;
+    color: ivory;
+}
+
+h2 {
+    text-align: center;
+    color: ivory;
+}
+
+
+
+
+
+.navigation {
+    border-style: double; border-radius: 15px; width: 90%; height: 30px;
+    display: inline-block; margin: 10px 10px 10px 5%; 
+    padding-top: 12px;
+     color: ivory;
+     list-style: none;
+}
+
+.nav1 {
+    float: left; width: 33%;
+    text-align: center;
+}
+
+.nav2 {
+    float: left; width: 33%;   
+    text-align: center;
+}
+.nav3 {
+    float: left; width: 33%;
+    text-align: center;
+}
+
+
+
+
+.popular {
+    color: ivory;
+    margin: -440px 10px 10px 9%;
+    text-align: left;
+    display: block;
+
+    border-style: double; border-radius: 15px; width: 255px; 
+    display: block; 
+    color: ivory; background-color: rgb(89, 142, 132);
+    padding-left: 27px;
+}
+
+
+
+
+
+
+.vhead {
+    color: ivory;
+    text-decoration: underline;
+
+    float: left; width: 36%;   
+    text-align: center;
+    padding-left: 10px;
+}
+
+.fraud {
+    width: 25%;
+    margin-top: 5px; margin-right: 10%; margin-left: 6%;
+    border-radius: 3%;
+}
+
+.vhead2 {
+    color: ivory;
+    text-decoration: underline;
+
+    float: left; width: 25%;   
+    text-align: center;
+}
+
+.vhead3 {
+    color: ivory;
+    text-decoration: underline;
+
+    margin-top: -13%; margin-right: 50%; margin-left: 37%;
+    width: 25%; display: block;
+}
+
+.vhead4 {
+    color: ivory;
+    text-decoration: underline;
+
+    margin-top: 7%; margin-right: 50%; margin-left: 37%;
+    width: 25%; display: block;
+}
+
+
+
+
+
+
+a {
+    text-decoration: none;
+    color: ivory;
+}
+
+a:visited {
+    color: ivory; text-decoration: underline;
+}
+
+a:hover {
+    color: rgb(17, 124, 126);
+}
+
+
+
+
+
+body {
+    background-color: rgb(14, 45, 53);
+    display: block; margin-left: auto; margin-right: auto;
+}
+
+img {
+     width: 99%;
+    color: ivory;
+}
+
+figure {
+    text-align: center;
+    display: block;
+    margin: 40px 10px 10px 69%; 
+    border-style: double; border-radius: 15px; width: 310px;
+    color: ivory; background-color: rgb(89, 142, 132);;
+    font-style: italic;
+    
+}
+
+
+
+
+
+.viruslink {
+
+    font-style: italic; text-decoration: underline; list-style: none;
+    margin: 50px 10px 10px 69% ;
+    border-style: ridge; border-radius: 5px; width: 20%;
+    padding: 10px 10px 10px 10px; border-color: rgb(221, 87, 64);
+    
+}
+
+h5 {
+    color: ivory;
+    margin-left: auto; margin-right: auto; display: block; text-align: center;
+    margin-top: 29%;
+}
+
+
+
+
+
+
+
+
+
+.main {
+    color: ivory;
+    text-align: left;
+    padding-left: 105px;
+    display: block;
+}
+
+p {
+    color: ivory;
+    text-align: left;
+    margin-top: -18%; margin-left: 35%;
+    width: 40%; display: block;
+}
+
+.morbs {
+    color: ivory;
+    text-align: left;
+    margin-top: 2%; margin-left: 7%;
+    width: 66%; display: block;
+}
+
+.italics {
+    font-style: italic;
+    display: block;
+    margin-top: 80px;
+}
+
+.italics2 {
+    font-style: italic;
+    display: block;
+    margin-top: 50px; margin-left: 7%;
+}
+
+.sadvamp {
+    width: 43%;
+    margin-top: -90px; margin-right: 10%; margin-left: 0%;
+    border-radius: 3%;
+}
+
+.plb {
+    color: ivory;
+    text-align: left;
+    margin-top: -36%; margin-left: 37%;
+    width: 40%; display: block;
+}
+
+.garlic {
+    width: 25%;
+    margin-top: 10px; margin-right: 0%; margin-left: 8%;
+    border-radius: 3%;
+}
+
+.uhhhidk {
+    color: ivory;
+    text-align: left;
+    margin-top: -18%; margin-left: 36%;
+    width: 40%; display: block;
+}
+
+
+.cc {
+    color: ivory;
+    text-align: left;
+    padding-left: 103px; margin-top: 8%;
+    display: block;
+}
